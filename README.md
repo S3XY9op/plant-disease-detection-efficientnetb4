@@ -60,9 +60,6 @@ The notebook's `/content/...` paths and shell commands are Colab-oriented. For l
 - Review notebook execution order and outputs before presenting results as final research findings.
 - This is an experimental image-classification project, not a substitute for expert agricultural diagnosis.
 
-## Citation and licensing
-
-Please cite the dataset according to its Mendeley Data record and comply with its license/terms. No project license is assigned here because the appropriate license depends on your intended reuse rights. If you want others to reuse your code, choose a license and add a `LICENSE` file before publishing.
 
 ## Suggested repository description
 
